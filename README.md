@@ -1,2 +1,3 @@
-# project
+# Zendexa Project
+
 Project related repository
